@@ -1,7 +1,7 @@
 DATABASE (MYSQL COMMAND)
   1)https://www.interviewbit.com/mysql-cheat-sheet/#database-commands
   2)https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS
-  30https://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.7-en.pdf
+  3)https://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.7-en.pdf
   
  GIT/GITHUB COMMANDS
   1)https://medium.com/edureka/git-vs-github-67c511d09d3e 
